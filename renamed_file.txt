@@ -1,0 +1,2 @@
+Hello WSL Ubuntul
+This is my first linux lab.

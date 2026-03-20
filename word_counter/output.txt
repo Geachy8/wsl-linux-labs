@@ -1,0 +1,10 @@
+hello: 5
+world: 3
+ubuntu: 3
+linux: 3
+this: 2
+lab: 2
+powerful: 1
+popular: 1
+again: 1
+worldhello: 1

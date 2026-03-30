@@ -1,26 +1,42 @@
-# My Linux & Python Projects
+# 🚀 Python & Linux Projects
 
-This repository contains projects I built while learning Linux, Python, and Git using WSL.
+This repository contains projects I built while learning Python, Linux (WSL), and Git.
+
+---
 
 ## 📂 Projects
 
+### 📋 Task Manager (CLI)
+A command-line task manager that allows users to:
+- Add tasks
+- View tasks
+- Mark tasks as complete
+- Delete tasks
+- Save tasks to a file
+
+---
+
 ### 🧮 Word Counter
-- Reads a text file
+- Reads text from a file
 - Counts word frequency
-- Outputs sorted results
+- Sorts results
 - Ignores common words
 
+---
+
 ### 📂 File Organiser
-- Automatically sorts files into folders:
+- Automatically sorts files into:
   - Images
   - Documents
   - Others
 - Handles file extensions
-- Includes live output for actions
+- Displays actions in real-time
+
+---
 
 ### 🔐 Password Generator
-- Generates random secure passwords
-- Customisable length and characters
+- Generates secure random passwords
+- Customisable options
 
 ---
 
@@ -37,22 +53,11 @@ This repository contains projects I built while learning Linux, Python, and Git 
 ## 🚀 How to Run
 
 ```bash
+python3 task_manager/task_manager.py
+python3 word_counter/word_counter.py
 python3 file_organiser.py
-python3 word_counter.py
 
+## 📌 About Me
 
----
-
-# 💾 Save
-
-- CTRL + O → Enter  
-- CTRL + X  
-
----
-
-# 🚀 Push the update
-
-```bash
-git add .
-git commit -m "Added professional README"
-git push
+I am currently learning software development, focusing on Python and Linux.  
+This repository tracks my progress as I build real projects and improve my skills.
